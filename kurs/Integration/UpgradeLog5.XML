@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Integration">
+</Property><Property Name="Файл решения" Value="D:\F\курсова C#\Integration\Integration.sln">
+</Property><Property Name="Date" Value="4 квітня 2013 р.">
+</Property><Property Name="Time" Value="22:41:54">
+</Property><Property Name="Номер записи" Value="5">
+</Property></Properties><Event ErrorLevel="0" Project="example1" Source="..\parcer\example1\example1.vcproj" Description="Converting project file 'D:\F\курсова C#\parcer\example1\example1.vcproj'.">
+</Event><Event ErrorLevel="1" Project="example1" Source="..\parcer\example1\example1.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="example1" Source="..\parcer\example1\example1.vcproj" Description="MSB8012: $(TargetPath) ('D:\F\курсова C#\parcer\example1\Debug\example1.exe') does not match the Linker's OutputFile property value 'Debug\example1.exe' ('D:\F\курсова C#\Integration\Debug\example1.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="example1" Source="..\parcer\example1\example1.vcproj" Description="MSB8012: $(TargetPath) ('D:\F\курсова C#\parcer\example1\Release\example1.exe') does not match the Linker's OutputFile property value 'Release\example1.exe' ('D:\F\курсова C#\Integration\Release\example1.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="example1" Source="..\parcer\example1\example1.vcproj" Description="Done converting to new project file 'D:\F\курсова C#\parcer\example1\example1.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="example1" Source="..\parcer\example1\example1.vcproj" Description="Converted">
+</Event></UpgradeLog>

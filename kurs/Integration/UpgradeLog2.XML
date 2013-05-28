@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Integration">
+</Property><Property Name="Файл решения" Value="D:\F\курсова C#\Integration\Integration.sln">
+</Property><Property Name="Date" Value="4 квітня 2013 р.">
+</Property><Property Name="Time" Value="20:15:33">
+</Property><Property Name="Номер записи" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="muParser" Source="..\parcer\ParserLib\muParser.vcproj" Description="Converting project file 'D:\F\курсова C#\parcer\ParserLib\muParser.vcproj'.">
+</Event><Event ErrorLevel="1" Project="muParser" Source="..\parcer\ParserLib\muParser.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="muParser" Source="..\parcer\ParserLib\muParser.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="muParser" Source="..\parcer\ParserLib\muParser.vcproj" Description="MSB8012: $(TargetPath) ('D:\F\курсова C#\parcer\ParserLib\Debug\muParser.lib') does not match the Librarian's OutputFile property value 'Debug/muParser.lib' ('D:\F\курсова C#\Integration\Debug/muParser.lib') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Lib.OutputFile).">
+</Event><Event ErrorLevel="1" Project="muParser" Source="..\parcer\ParserLib\muParser.vcproj" Description="MSB8012: $(TargetPath) ('D:\F\курсова C#\parcer\ParserLib\Release\muParser.lib') does not match the Librarian's OutputFile property value 'Release/muParser.lib' ('D:\F\курсова C#\Integration\Release/muParser.lib') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Lib.OutputFile).">
+</Event><Event ErrorLevel="0" Project="muParser" Source="..\parcer\ParserLib\muParser.vcproj" Description="Done converting to new project file 'D:\F\курсова C#\parcer\ParserLib\muParser.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="muParser" Source="..\parcer\ParserLib\muParser.vcproj" Description="Converted">
+</Event></UpgradeLog>

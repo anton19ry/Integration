@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Integration">
+</Property><Property Name="Файл решения" Value="D:\F\курсова C#\Integration\Integration.sln">
+</Property><Property Name="Date" Value="4 квітня 2013 р.">
+</Property><Property Name="Time" Value="22:42:15">
+</Property><Property Name="Номер записи" Value="6">
+</Property></Properties><Event ErrorLevel="0" Project="example_csharp" Source="..\parcer\example_csharp\example_csharp.csproj" Description="Успешно создана резервная копия файла проекта: D:\F\курсова C#\Integration\Backup\example_csharp.csproj">
+</Event><Event ErrorLevel="0" Project="example_csharp" Source="..\parcer\example_csharp\WndSample.cs" Description="Успешно создана резервная копия файла D:\F\курсова C#\Integration\Backup\WndSample.cs">
+</Event><Event ErrorLevel="0" Project="example_csharp" Source="..\parcer\example_csharp\WndSample.Designer.cs" Description="Успешно создана резервная копия файла D:\F\курсова C#\Integration\Backup\WndSample.Designer.cs">
+</Event><Event ErrorLevel="0" Project="example_csharp" Source="..\parcer\example_csharp\muParser.cs" Description="Успешно создана резервная копия файла D:\F\курсова C#\Integration\Backup\muParser.cs">
+</Event><Event ErrorLevel="0" Project="example_csharp" Source="..\parcer\example_csharp\Program.cs" Description="Успешно создана резервная копия файла D:\F\курсова C#\Integration\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="example_csharp" Source="..\parcer\example_csharp\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла D:\F\курсова C#\Integration\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="example_csharp" Source="..\parcer\example_csharp\Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла D:\F\курсова C#\Integration\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="example_csharp" Source="..\parcer\example_csharp\Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла D:\F\курсова C#\Integration\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="example_csharp" Source="..\parcer\example_csharp\Properties\Settings.settings" Description="Успешно создана резервная копия файла D:\F\курсова C#\Integration\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="example_csharp" Source="..\parcer\example_csharp\WndSample.resx" Description="Успешно создана резервная копия файла D:\F\курсова C#\Integration\Backup\WndSample.resx">
+</Event><Event ErrorLevel="0" Project="example_csharp" Source="..\parcer\example_csharp\Properties\Resources.resx" Description="Успешно создана резервная копия файла D:\F\курсова C#\Integration\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="example_csharp" Source="..\parcer\example_csharp\example_csharp.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="example_csharp" Source="..\parcer\example_csharp\example_csharp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="example_csharp" Source="..\parcer\example_csharp\example_csharp.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>
